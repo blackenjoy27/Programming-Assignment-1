@@ -1,0 +1,10 @@
+/* Add CSS stylesheet */
+.header { /* These are just the default CSS properties for h1 header tags */
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
